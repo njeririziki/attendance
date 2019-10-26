@@ -1,0 +1,5 @@
+AppRoot
+
+Client id:1062595945502-uoqr6rpqtn7o7d93ke7b1fe5qltr1j47.apps.googleusercontent.com
+
+Client secret:1G-WBimzm9hMokFtm8rXbeeL
